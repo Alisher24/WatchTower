@@ -1,15 +1,18 @@
 // server.js
 
-const Stream = require('node-rtsp-stream');
+const Stream = require('node-rtsp-stream-jsmpeg');
 const express = require('express');
+const cors = require("cors");
 const app = express();
 const port = 3000;
 
 app.use(express.static('public'));
+app.use(cors())
 
 let stream;
 
 app.get('/start-stream', (req, res) => {
+    console.log(req.query);
     const { address, username, password } = req.query;
     const streamUrl = `rtsp://${username}:${password}@${address}`;
 
