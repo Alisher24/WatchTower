@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WatchTowerBeta.props" />
+</Project>

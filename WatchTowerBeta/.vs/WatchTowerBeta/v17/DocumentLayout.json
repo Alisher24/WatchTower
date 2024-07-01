@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5908D388-03EE-4EB2-BBC3-3D26692C8B2C}|ReactApp1\\ReactApp1.Server\\WatchTower.Server.csproj|c:\\users\\katie\\source\\watchtower\\watchtowerbeta\\reactapp1\\reactapp1.server\\controllers\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908D388-03EE-4EB2-BBC3-3D26692C8B2C}|ReactApp1\\ReactApp1.Server\\WatchTower.Server.csproj|solutionrelative:reactapp1\\reactapp1.server\\controllers\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908D388-03EE-4EB2-BBC3-3D26692C8B2C}|ReactApp1\\ReactApp1.Server\\WatchTower.Server.csproj|c:\\users\\katie\\source\\watchtower\\watchtowerbeta\\reactapp1\\reactapp1.server\\models\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908D388-03EE-4EB2-BBC3-3D26692C8B2C}|ReactApp1\\ReactApp1.Server\\WatchTower.Server.csproj|solutionrelative:reactapp1\\reactapp1.server\\models\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908D388-03EE-4EB2-BBC3-3D26692C8B2C}|ReactApp1\\ReactApp1.Server\\WatchTower.Server.csproj|c:\\users\\katie\\source\\watchtower\\watchtowerbeta\\reactapp1\\reactapp1.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908D388-03EE-4EB2-BBC3-3D26692C8B2C}|ReactApp1\\ReactApp1.Server\\WatchTower.Server.csproj|solutionrelative:reactapp1\\reactapp1.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DF5D3D-8FE7-4B5E-BA0F-71676DF96177}|ReactApp1\\reactapp1.client\\watchTower.client.esproj|c:\\users\\katie\\source\\watchtower\\watchtowerbeta\\reactapp1\\reactapp1.client\\jsmpeg.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14DF5D3D-8FE7-4B5E-BA0F-71676DF96177}|ReactApp1\\reactapp1.client\\watchTower.client.esproj|solutionrelative:reactapp1\\reactapp1.client\\jsmpeg.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908D388-03EE-4EB2-BBC3-3D26692C8B2C}|ReactApp1\\ReactApp1.Server\\WatchTower.Server.csproj|c:\\users\\katie\\source\\watchtower\\watchtowerbeta\\reactapp1\\reactapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908D388-03EE-4EB2-BBC3-3D26692C8B2C}|ReactApp1\\ReactApp1.Server\\WatchTower.Server.csproj|solutionrelative:reactapp1\\reactapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DF5D3D-8FE7-4B5E-BA0F-71676DF96177}|ReactApp1\\reactapp1.client\\watchTower.client.esproj|c:\\users\\katie\\source\\watchtower\\watchtowerbeta\\reactapp1\\reactapp1.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14DF5D3D-8FE7-4B5E-BA0F-71676DF96177}|ReactApp1\\reactapp1.client\\watchTower.client.esproj|solutionrelative:reactapp1\\reactapp1.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DF5D3D-8FE7-4B5E-BA0F-71676DF96177}|ReactApp1\\reactapp1.client\\watchTower.client.esproj|c:\\users\\katie\\source\\watchtower\\watchtowerbeta\\reactapp1\\reactapp1.client\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14DF5D3D-8FE7-4B5E-BA0F-71676DF96177}|ReactApp1\\reactapp1.client\\watchTower.client.esproj|solutionrelative:reactapp1\\reactapp1.client\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 334,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +51,91 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\ReactApp1.Server\\Models\\Camera.cs",
+              "RelativeDocumentMoniker": "ReactApp1\\ReactApp1.Server\\Models\\Camera.cs",
+              "ToolTip": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\ReactApp1.Server\\Models\\Camera.cs",
+              "RelativeToolTip": "ReactApp1\\ReactApp1.Server\\Models\\Camera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:14:43.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ReactApp1\\ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ReactApp1\\ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:14:12.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jsmpeg.min.js",
+              "DocumentMoniker": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\reactapp1.client\\jsmpeg.min.js",
+              "RelativeDocumentMoniker": "ReactApp1\\reactapp1.client\\jsmpeg.min.js",
+              "ToolTip": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\reactapp1.client\\jsmpeg.min.js",
+              "RelativeToolTip": "ReactApp1\\reactapp1.client\\jsmpeg.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-01T06:51:08.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\ReactApp1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ReactApp1\\ReactApp1.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\ReactApp1.Server\\Program.cs",
+              "RelativeToolTip": "ReactApp1\\ReactApp1.Server\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAnwD8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:36:18.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\reactapp1.client\\index.html",
+              "RelativeDocumentMoniker": "ReactApp1\\reactapp1.client\\index.html",
+              "ToolTip": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\reactapp1.client\\index.html",
+              "RelativeToolTip": "ReactApp1\\reactapp1.client\\index.html",
+              "ViewState": "AQIAACcAAAAAAAAAAAAkwD0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-30T22:28:57.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\ReactApp1.Server\\Controllers\\CameraController.cs",
+              "RelativeDocumentMoniker": "ReactApp1\\ReactApp1.Server\\Controllers\\CameraController.cs",
+              "ToolTip": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\ReactApp1.Server\\Controllers\\CameraController.cs",
+              "RelativeToolTip": "ReactApp1\\ReactApp1.Server\\Controllers\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:07:29.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\reactapp1.client\\script.js",
+              "RelativeDocumentMoniker": "ReactApp1\\reactapp1.client\\script.js",
+              "ToolTip": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\ReactApp1\\reactapp1.client\\script.js",
+              "RelativeToolTip": "ReactApp1\\reactapp1.client\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-30T22:08:46.693Z"
             }
           ]
         }

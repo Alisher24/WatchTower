@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\artyoms\\.nuget\\packages\\": {}
+    "C:\\Users\\katie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artyoms\\RiderProjects\\WatchTower\\WatchTowerBeta\\WatchTowerBeta\\WatchTowerBeta.csproj",
+      "projectUniqueName": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\WatchTowerBeta\\WatchTowerBeta.csproj",
       "projectName": "WatchTowerBeta",
-      "projectPath": "C:\\Users\\artyoms\\RiderProjects\\WatchTower\\WatchTowerBeta\\WatchTowerBeta\\WatchTowerBeta.csproj",
-      "packagesPath": "C:\\Users\\artyoms\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artyoms\\RiderProjects\\WatchTower\\WatchTowerBeta\\WatchTowerBeta\\obj\\",
+      "projectPath": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\WatchTowerBeta\\WatchTowerBeta.csproj",
+      "packagesPath": "C:\\Users\\katie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\katie\\source\\WatchTower\\WatchTowerBeta\\WatchTowerBeta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\artyoms\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\katie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\artyoms\\.dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
